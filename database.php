@@ -2,7 +2,7 @@
 class Database
 {
     
-     private static $dbHost="database-cine.cmusu8cyeqkw.us-east-2.rds.amazonaws.com";
+     private static $dbHost="gestioncinema.c3lddd3hzr18.eu-west-3.rds.amazonaws.com";
      private static $dbName="GestionCinema";
      private static $dbUser="admin";
      private static $dbUserPassword="fD102004";
